@@ -3,8 +3,8 @@
 
 
 <h1>Demo</h1>
-<video controls loop>
-  <source src="https://github.com/user-attachments/assets/e7bb45d2-256d-4331-a866-cfced4301034" type="video/mp4">
+<video loop>
+  <source src="https://github.com/user-attachments/assets/e7bb45d2-256d-4331-a866-cfced4301034">
 </video> 
 
 <br><br>
