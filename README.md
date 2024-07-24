@@ -1,5 +1,5 @@
-# Snake-Game
- Here’s a basic implementation of a classic Snake game as a console application in C#.
+# Snake Game
+ Here’s a basic implementation of a classic Snake game as a console application in C#.<br>
  Also framework that i used is .NET Framework 4.8
 
 
