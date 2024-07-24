@@ -3,7 +3,7 @@
 
 
 <h1>Demo</h1>
-<video  src="https://github.com/user-attachments/assets/5ae27a3f-54ea-436a-aed3-a1b3ceb2647b" autoplay loop></video> 
+<video  src="https://github.com/user-attachments/assets/5ae27a3f-54ea-436a-aed3-a1b3ceb2647b" loop></video> 
 
 <br><br>
 
