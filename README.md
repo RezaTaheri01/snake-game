@@ -3,9 +3,12 @@
 
 
 <h1>Demo</h1>
-<video src="https://github.com/user-attachments/assets/e7bb45d2-256d-4331-a866-cfced4301034" type="video/mp4" loop="true"></video>
-<br>
-<br>
+<video controls loop>
+  <source src="https://github.com/user-attachments/assets/e7bb45d2-256d-4331-a866-cfced4301034" type="video/mp4">
+</video> 
+
+<br><br>
+
 <h1>Menu Preview</h1>
 <image src="https://github.com/user-attachments/assets/6e6254d3-c49c-4b1c-826e-f91681f75252"></image>
 
