@@ -3,8 +3,9 @@
 
 
 <h1>Demo</h1>
-https://github.com/user-attachments/assets/e7bb45d2-256d-4331-a866-cfced4301034
+<video src="https://github.com/user-attachments/assets/e7bb45d2-256d-4331-a866-cfced4301034"></video>
 <br>
 <br>
 <h1>Menu Preview</h1>
-![menu](https://github.com/user-attachments/assets/6e6254d3-c49c-4b1c-826e-f91681f75252)
+<image src="https://github.com/user-attachments/assets/6e6254d3-c49c-4b1c-826e-f91681f75252"></image>
+
