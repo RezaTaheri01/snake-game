@@ -52,8 +52,8 @@ namespace Snake_Game
             Array.Clear(snakeX, 0, snakeX.Length);
             Array.Clear(snakeY, 0, snakeY.Length);
 
-            Console.SetBufferSize(win_w, win_h);
             Console.SetWindowSize(win_w, win_h);
+            //Console.SetBufferSize(win_w, win_h);
             ConsoleHelper.SetCurrentFont("Consolas", fontSize);
             Console.CursorVisible = false;
             Console.BackgroundColor = bg;
