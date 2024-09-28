@@ -3,7 +3,7 @@
  Also framework that i used is .NET Framework 4.8.<br>
 
  # Attention 
-If you're using Windows 11 or the new Terminal, you need to set your default terminal application to Windows Console Host.<br> Alternatively, you can open Command Prompt, navigate to the app directory, and run "Snake Game.exe."
+If you're using Windows 11 or the new Terminal, you need to set your default terminal application to Windows Console Host.<br> Alternatively, you can open Command Prompt, navigate to the app directory, and run "Snake Game.exe"
 
 
 <h1>Demo</h1>
