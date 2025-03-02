@@ -25,8 +25,4 @@ Watch the gameplay in action:
 Here’s a preview of the game's menu interface:
 
 ![Snake Game Menu](https://github.com/user-attachments/assets/6e6254d3-c49c-4b1c-826e-f91681f75252)
-
----
-
-Enjoy playing and feel free to customize and enhance it further!
 * * *
